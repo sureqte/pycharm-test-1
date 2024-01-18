@@ -7,4 +7,5 @@ def data_birthday(input_data):
 def prs():
     print('Rinch brinch')
 
+prs()
 data_birthday(input_data)
