@@ -8,4 +8,5 @@ def prs():
     print('Rinch brinch')
 
 prs()
+print('int')
 data_birthday(input_data)
