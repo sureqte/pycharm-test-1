@@ -9,5 +9,8 @@ def prs():
 def xxx(input_data):
     x=input_data
     print(x)
+    
+def Hello():
+    print('Hello')
 
 data_birthday(input_data)
