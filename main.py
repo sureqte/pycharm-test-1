@@ -13,5 +13,7 @@ def xxx(input_data):
 def Hello():
     print('Hello')
 
-prs()
+def goodbye():
+    print('good bye')
+
 data_birthday(input_data)
