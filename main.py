@@ -10,4 +10,5 @@ def xxx(input_data):
     x=input_data
     print(x)
 
+prs()
 data_birthday(input_data)
